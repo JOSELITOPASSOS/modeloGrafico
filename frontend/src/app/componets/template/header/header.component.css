@@ -1,0 +1,22 @@
+.header {
+    background-color: #286375;
+}
+
+.header a {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: #f5f1f1;
+}
+
+.header .logo {
+    max-height: 32px;
+}
+
+.header .title-group {
+    padding-left: 25px;
+}
+
+.header .title-group em {
+    padding-right: 5px;
+}
