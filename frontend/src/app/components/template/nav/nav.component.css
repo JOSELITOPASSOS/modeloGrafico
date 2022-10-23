@@ -1,0 +1,19 @@
+/* #181918 */
+.sidenav {
+    background-color: #242524;
+    width: 200px;
+}
+
+ .sidenav  a {
+    color: rgb(245, 234, 234);
+}
+
+
+.sidenav em {
+    padding-right: 10px;
+}
+
+.content {
+    padding: 16px;
+    background-color: #fff;
+}
